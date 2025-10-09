@@ -10,3 +10,8 @@ h1{
     font-weight: bold;
     color: #3d0bc7;
 }
+
+.navbar {
+    background-image: none;
+    background: rgb(223, 205, 247) !important;
+}

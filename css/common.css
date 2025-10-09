@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+
+.navbar li a {
+    font-weight: bold;
+}
+
+.navbar .navbar-brand {
+    font-weight: bold;
+    color: #3d0bc7;
+}

@@ -2,7 +2,7 @@ h1{
     color: blue;
 }
 
-.navbar li a {
+.navbar li .active {
     font-weight: bold;
 }
 

@@ -43,3 +43,19 @@ h3 {
     text-align: right;
     font-weight: bold;
 }
+
+.mclaren {
+    color: #FF8000;
+}
+
+.redbull {
+    color: #001D46;
+}
+
+.mercedes {
+    color: #00A19B;
+}
+
+.ferrari {
+    color: #ED1C24;
+}

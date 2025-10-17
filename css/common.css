@@ -43,8 +43,13 @@ img {
     background-color: #5c5c5c;
 }
 
+li {
+    text-align: left;
+}
 
-
+ul {
+    text-align: left;
+}
 
 #check {
     text-align: right;
